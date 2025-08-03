@@ -68,27 +68,5 @@ This project supports various types of coffee data analysis including:
 - **Main README**: This file provides project overview and setup instructions
 - **Coffee README**: See `coffee/readme.md` for coffee-specific analysis details
 
-## Contributing
-
-To contribute to this project:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is for educational and analytical purposes. Please ensure you have appropriate permissions for any data used in analysis.
-
-## Support
-
-For questions or issues related to this project:
-- Review the documentation files
-- Check the Excel files for embedded comments and instructions
-- Contact the project maintainer for additional support
-
----
-
-**Last Updated**: December 2024
 **Project Type**: SQL Data Analysis
 **Primary Focus**: Coffee Industry Analytics 
